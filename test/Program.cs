@@ -6,7 +6,7 @@
         {
             IntLinkedList list = new IntLinkedList();
             list.Input();
-            Console.WriteLine("DSLK so nguyen:");
+            Console.WriteLine("DSLK so hehehehehehehehehehehehjjdsklfjdskljfdkljnlakdjkl:");
             list.ShowList();
         }
 
